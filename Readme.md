@@ -22,4 +22,4 @@ cd target
 java -jar inventory-management-app-0.0.1-SNAPSHOT.jar
 ```
 
-Results will placed next to the jar file
+Results will placed next to the jar file....
